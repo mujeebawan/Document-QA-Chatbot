@@ -37,6 +37,5 @@ First, clone this repository to your local machine:
 ```bash
 git clone https://github.com/mujeebawan/Document-QA-Chatbot.git
 cd Document-QA-Chatbot
-` ``` `
-
-### 2️⃣ Set Up a Virtual Environment
+**
+###2️⃣ Set Up a Virtual Environment
