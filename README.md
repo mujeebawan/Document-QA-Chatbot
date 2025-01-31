@@ -4,6 +4,7 @@ This project is a Document Question-Answering Chatbot built using LangChain, Ope
 
 🚀 Purpose:
 Many people, especially researchers and students, spend a lot of time reading long documents or research papers just to find specific information. This chatbot simplifies the process by allowing users to:
+
 ✅ Upload a document (PDF/TXT)
 ✅ Ask questions about its content
 ✅ Receive quick & accurate answers
