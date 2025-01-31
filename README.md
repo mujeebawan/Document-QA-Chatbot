@@ -89,13 +89,13 @@ Once everything is installed, you can start the chatbot:
 streamlit run main.py
 ```
 
-After running the above command, the terminal will show:
-You can now view your Streamlit app in your browser.
+After running the above command, the terminal will show:  
+You can now view your Streamlit app in your browser.  
 
-  Local URL: http://localhost:8502
-  Network URL: http://192.168.0.110:8502
+  Local URL: http://localhost:8502  
+  Network URL: http://192.168.0.110:8502  
 
-Open http://localhost:8502 in your browser to interact with the chatbot.
+Open http://localhost:8502 in your browser to interact with the chatbot.  
 
 ---
 
