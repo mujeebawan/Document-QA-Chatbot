@@ -18,7 +18,7 @@ This makes research faster, more efficient, and user-friendly!
 ---
 
 ## 🚀 Demo
-![Project Screenshot](./demo.png) 
+![Project Screenshot](./assets/demo.png) 
 *(A screenshot of the working chatbot UI.)*
 
 ---
