@@ -6,12 +6,17 @@ This project is a Document Question-Answering Chatbot built using LangChain, Ope
 Many people, especially researchers and students, spend a lot of time reading long documents or research papers just to find specific information. This chatbot simplifies the process by allowing users to:
 
 ✅ Upload a document (PDF/TXT)
+
 ✅ Ask questions about its content
+
 ✅ Receive quick & accurate answers
 
 Instead of reading an entire paper, you can instantly extract key insights by simply asking specific questions like:
+
 💬 "Summarize the abstract in one sentence."
+
 💬 "What methodology was used?"
+
 💬 "List the key findings of this paper."
 
 This makes research faster, more efficient, and user-friendly!
