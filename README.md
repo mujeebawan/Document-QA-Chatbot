@@ -82,6 +82,7 @@ OPENAI_API_KEY=your_openai_api_key_here
 
 ```
 ---
+
 ▶️ Running the Chatbot
 Once everything is installed, you can start the chatbot:
 ```bash
@@ -97,7 +98,8 @@ You can now view your Streamlit app in your browser.
 Open http://localhost:8502 in your browser to interact with the chatbot.
 
 ---
-### 🎮 Usage Guide
+
+### 🎮 Usage Guide  
 **Upload a Document 📂**
 
 - Click "Browse Files" and select a PDF or TXT file.  
