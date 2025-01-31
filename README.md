@@ -18,7 +18,7 @@ This makes research faster, more efficient, and user-friendly!
 ---
 
 ## 🚀 Demo
-![Project Screenshot](./demo.png))  
+![Project Screenshot](./demo.png) 
 *(A screenshot of the working chatbot UI.)*
 
 ---
@@ -77,7 +77,7 @@ You need an OpenAI API Key to use GPT-based responses.
 Get your API key from: OpenAI
 Create a .env file in the root directory and add:
 
-```makefile
+```env
 OPENAI_API_KEY=your_openai_api_key_here
 
 ```
@@ -97,21 +97,21 @@ You can now view your Streamlit app in your browser.
 Open http://localhost:8502 in your browser to interact with the chatbot.
 
 ---
-###🎮 Usage Guide
+### 🎮 Usage Guide
 **Upload a Document 📂**
 
-*-*Click "Browse Files" and select a PDF or TXT file.
-*-*Click "Process Document" to load the content into the chatbot.
+- Click "Browse Files" and select a PDF or TXT file.  
+- Click "Process Document" to load the content into the chatbot.  
 
 **Ask Questions ❓**
 
-Type a question related to the document.
-Example: "Summarize the abstract in one sentence."
+Type a question related to the document.  
+Example: "Summarize the abstract in one sentence."  
 
 **Get AI Responses 🤖**
 
-The bot will extract relevant information from the document.
-It uses memory, so you can ask follow-up questions!
+The bot will extract relevant information from the document.  
+It uses memory, so you can ask follow-up questions!  
 
 ---
 ###🗂 Project Structure
@@ -127,29 +127,37 @@ It uses memory, so you can ask follow-up questions!
 ```
 ---
 ###⚡ Troubleshooting & FAQs
+
 *❓ My chatbot is not responding!*
-Make sure your *OpenAI API Key* is correctly set in .env.
-Ensure all dependencies are installed: pip install -r requirements.txt.
-Check your internet connection.
-❓ I get an error saying **ModuleNotFoundError: No module named 'langchain'!**
-Run the command:
+Make sure your *OpenAI API Key* is correctly set in .env.  
+Ensure all dependencies are installed: pip install -r requirements.txt.  
+Check your internet connection.  
+❓ I get an error saying **ModuleNotFoundError: No module named 'langchain'!**   
+Run the command:  
 ```bash
 pip install langchain
 ```
-*❓ How do I stop the chatbot?*
-Simply press CTRL + C in the terminal.
+*❓ How do I stop the chatbot?*  
+Simply press CTRL + C in the terminal.  
+
 ---
 
 ###📌 Future Enhancements
-🔹 Add support for multiple file uploads
-🔹 Enhance UI with better styling
-🔹 Improve retrieval accuracy with embeddings tuning
+
+🔹 Add support for multiple file uploads  
+🔹 Enhance UI with better styling  
+🔹 Improve retrieval accuracy with embeddings tuning  
+
 ---
 ###❤️ Contributing
-Want to improve this project? Feel free to submit a pull request or open an issue!
+
+Want to improve this project? Feel free to submit a pull request or open an issue!  
+
 ---
 ###📜 License
-This project is licensed under the MIT License.
+
+This project is licensed under the MIT License.  
+
 ---
 ###📬 Need Help?
 If you run into any issues, feel free to ask on GitHub Issues or reach out via email.
