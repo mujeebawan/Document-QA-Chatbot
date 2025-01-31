@@ -116,7 +116,9 @@ The bot will extract relevant information from the document.
 It uses memory, so you can ask follow-up questions!  
 
 ---
+
 ###🗂 Project Structure
+
 ```bash
 📂 Document-QA-Chatbot/
 │── .venv/                 # Virtual environment (ignore in Git)
@@ -128,17 +130,20 @@ It uses memory, so you can ask follow-up questions!
 
 ```
 ---
+
 ###⚡ Troubleshooting & FAQs
 
-*❓ My chatbot is not responding!*
+*❓ My chatbot is not responding!*  
 Make sure your *OpenAI API Key* is correctly set in .env.  
 Ensure all dependencies are installed: pip install -r requirements.txt.  
 Check your internet connection.  
 ❓ I get an error saying **ModuleNotFoundError: No module named 'langchain'!**   
 Run the command:  
+
 ```bash
 pip install langchain
 ```
+
 *❓ How do I stop the chatbot?*  
 Simply press CTRL + C in the terminal.  
 
@@ -151,16 +156,19 @@ Simply press CTRL + C in the terminal.
 🔹 Improve retrieval accuracy with embeddings tuning  
 
 ---
+
 ###❤️ Contributing
 
 Want to improve this project? Feel free to submit a pull request or open an issue!  
 
 ---
+
 ###📜 License
 
 This project is licensed under the MIT License.  
 
 ---
+
 ###📬 Need Help?
 If you run into any issues, feel free to ask on GitHub Issues or reach out via email.
 
