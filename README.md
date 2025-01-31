@@ -117,7 +117,7 @@ It uses memory, so you can ask follow-up questions!
 
 ---
 
-###🗂 Project Structure
+### 🗂 Project Structure
 
 ```bash
 📂 Document-QA-Chatbot/
@@ -131,7 +131,7 @@ It uses memory, so you can ask follow-up questions!
 ```
 ---
 
-###⚡ Troubleshooting & FAQs
+### ⚡ Troubleshooting & FAQs
 
 *❓ My chatbot is not responding!*  
 Make sure your *OpenAI API Key* is correctly set in .env.  
@@ -149,7 +149,7 @@ Simply press CTRL + C in the terminal.
 
 ---
 
-###📌 Future Enhancements
+### 📌 Future Enhancements
 
 🔹 Add support for multiple file uploads  
 🔹 Enhance UI with better styling  
@@ -157,19 +157,19 @@ Simply press CTRL + C in the terminal.
 
 ---
 
-###❤️ Contributing
+### ❤️ Contributing
 
 Want to improve this project? Feel free to submit a pull request or open an issue!  
 
 ---
 
-###📜 License
+### 📜 License
 
 This project is licensed under the MIT License.  
 
 ---
 
-###📬 Need Help?
+### 📬 Need Help?
 If you run into any issues, feel free to ask on GitHub Issues or reach out via email.
 
 📌 Happy Coding! 🎉
