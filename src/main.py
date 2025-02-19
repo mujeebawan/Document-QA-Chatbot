@@ -1,5 +1,4 @@
 
-#os.environ["OPENAI_API_KEY"] = "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"
 import os
 import streamlit as st
 from langchain_community.document_loaders import TextLoader, PyPDFLoader
